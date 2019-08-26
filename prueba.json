@@ -26,6 +26,14 @@
         {
             "nombreColor":"negro",
             "valorHexadec":"#000"
+              },
+        {
+            "nombreColor":"rosa",
+            "valorHexadec":"FF33C1"
+              },
+        {
+            "nombreColor":"naranja",
+            "valorHexadec":"FF6B33"
         }
     ]
 }
